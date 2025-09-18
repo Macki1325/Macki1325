@@ -1,16 +1,18 @@
-## Hi there 👋
+### About Me
 
-<!--
-**Macki1325/Macki1325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently an IT-technologist student with a growing passion for software development. I have experience with Java, Python, HTML, and CSS, and I am continuously learning to build clean, efficient, and maintainable code.
 
-Here are some ideas to get you started:
+My interests include building small fullstack projects, exploring backend development with Java and Python, and improving user interfaces using HTML and CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Skills
+- Programming languages: Java, Python, HTML, (CSS)
+
+---
+
+### Currently learning
+- Basics of frontend web development with **HTML, CSS and JavaScript**
+- Responsive design and layout
+- Working toward building full web interfaces from scratch
+- Basics of backend development using **Python (Flask)**
